@@ -1,2 +1,2 @@
 # Unity-GUI-Manager
-Unity GUI Manager that comes with DotTween Animations (requires the DoTween plugin)
+Requires the DoTween plugin http://dotween.demigiant.com/download.php
